@@ -4,5 +4,9 @@
 	</head>
 	<body>
 		<h1>Products</h1>
+		<ol>
+			<li>Apples</li>
+			<li>Bananas</li>
+		</ol>
 	</body>
 </html>
